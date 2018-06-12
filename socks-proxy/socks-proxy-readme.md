@@ -4,12 +4,12 @@
 ## 1.安装客户端
 ### ShadowSocks
 可在[shadowsocks.org](https://shadowsocks.org/en/download/clients.html)找到下载客户端，本站提供部分客户端安装包：
-+ [Android](https://proxy.njunova.com/file/Shadowdsocks-3.3.1.apk)
-+ [Windows](https://proxy.njunova.com/file/Shadowsocks-3.4.3.zip)
-+ [Mac OS](https://proxy.njunova.com/file/ShadowsocksX-NG-1.4-beta.zip)
++ [Android](../file/Shadowdsocks-3.3.1.apk)
++ [Windows](../file/Shadowsocks-3.4.3.zip)
++ [Mac OS](../file/ShadowsocksX-NG-1.4-beta.zip)
 
 安装启动后填写配置：
-+ 服务器地址 proxy.njunova.com
++ 服务器地址 sakura.njunova.com
 + 服务器端口 53
 + 加密方式 AES-256-CFB
 + 密码请咨询管理员

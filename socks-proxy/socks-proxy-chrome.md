@@ -5,9 +5,9 @@ Chrome的官方下载地址 ：[Chrome](https://www.google.com/intl/en/chrome/br
 SwitchyOmega插件可在[Chrome商店](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en)或者[Github](https://github.com/FelisCatus/SwitchyOmega/releases)下载，
 
 本站的离线安装包：   
-[windows 32位Chrome(55.0.2883.87)](https://proxy.njunova.com/file/ChromeStandaloneSetup.exe)   
-[windows 64位Chrome(55.0.2883.87)](https://proxy.njunova.com/file/ChromeStandaloneSetup64.exe)   
-[SwitchyOmega.crx](https://proxy.njunova.com/file/SwitchyOmega.crx)
+[windows 32位Chrome(55.0.2883.87)](../file/ChromeStandaloneSetup.exe)   
+[windows 64位Chrome(55.0.2883.87)](../file/ChromeStandaloneSetup64.exe)   
+[SwitchyOmega.crx](../file/SwitchyOmega.crx)
 ## 2.在插件中配置代理
 打开swichy omega的配置界面，新建情景模式-代理服务器。   
 ![](/assets/chrome-socks-conf.png)  

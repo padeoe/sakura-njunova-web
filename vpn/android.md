@@ -3,7 +3,7 @@ Android上有两种方式建立VPN，一种是利用系统自带的VPN，一种�
 前者好像不是很稳，推荐安装app。
 
 ## 使用StrongSwan创建VPN
-[点此下载](https://proxy.njunova.com/file/strongswan-1.9.6.apk)(8.71MB)客户端 “Strongswan.apk”，安装后打开，新建连接如下。填好后保存。然后连接。
+[点此下载](../file/strongswan-1.9.6.apk)(8.71MB)客户端 “Strongswan.apk”，安装后打开，新建连接如下。填好后保存。然后连接。
 
 ![](/assets/android-strongswan.png)
 
