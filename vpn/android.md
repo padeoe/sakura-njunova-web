@@ -8,6 +8,6 @@ Android上有两种方式建立VPN，一种是利用系统自带的VPN，一种�
 ![](/assets/android-strongswan.png)
 
 ## 使用系统设置创建VPN
-打开设置-更多-VPN，添加VPN。如图，确保其中：服务器地址是vpn.njunova.com ，VPN类型是IPSec Xauth PSK，IPSec预共享密钥是MyPSKkey。
+打开设置-更多-VPN，添加VPN。如图，确保其中：服务器地址是 sakura.njunova.com ，VPN类型是IPSec Xauth PSK，IPSec预共享密钥是 myPSKkey。
 
 ![](/assets/android-system.png)
