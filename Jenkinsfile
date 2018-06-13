@@ -15,7 +15,7 @@ node {
                     configName: 'padeoe.com', 
                     transfers: [
                         sshTransfer(
-                            excludes: '',
+                            excludes: '**/*.md',
                             execCommand: '', 
                             execTimeout: 120000, 
                             flatten: false, 
