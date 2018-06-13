@@ -6,7 +6,7 @@ SwitchyOmega插件可在[Chrome商店](https://chrome.google.com/webstore/detail
 本站的离线安装包：   
 <a href="../file/ChromeStandaloneSetup64.exe" download target="_blank">windows 64位Chrome(67.0.3396.79)</a>  
 <a href="../file/SwitchyOmega.crx" download target="_blank">SwitchyOmega.crx</a>
-[SwitchyOmega.crx](../file/SwitchyOmega.crx)
+
 ## 2.在插件中配置代理
 打开swichy omega的配置界面，新建情景模式-代理服务器，如图填写，确保协议是HTTPS，服务器地址是 sakura.njunova.com ,端口是 5678 。并点击端口右边的锁状图标🔒，填写用户名密码。  
 填写完毕后，点击应用更改。   
