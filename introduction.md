@@ -23,4 +23,4 @@ Socks代理|||✓|✓
 由于HTTPS代理加密传输，会受到GFW的随机丢包，因此速度不稳定，看网页不成问题，但大流量下载就会体现出来。
 
 ## Socks代理
-本服务器的Socks代理实则是经过改进的Socks代理。原生的Socks代理是明文传输，访问“非法”网站会直接被墙。由于改进的Socks代理需要加密，因此需要客户端。譬如Shadowsocks就是一种基于Socks5的代理。本服务器的YSocks代理暂时只提供Windows平台的客户端,本站还提供当前流行的shadowsocks代理。
+本服务器的Socks代理实则是经过改进的Socks代理。原生的Socks代理是明文传输，访问“非法”网站会直接被墙。由于改进的Socks代理需要加密，因此需要客户端。譬如Shadowsocks就是一种基于Socks5的代理。本服务器的YSocks代理暂时只提供Windows平台的客户端。

@@ -1,22 +1,9 @@
 # Socks代理的使用
-本服务器提供两种基于Socks5的代理：ShadowSocks和YSocks,使用大同小异，只是后者暂只支持windows。Socks代理的原理是，在本地计算机开一个客户端，客户端和服务器加密通信防止被墙，因为标准的Socks代理是明文的会直接被墙，客户端会在本地开启一个标准的Socks代理（未加密），应用程序通过内部的代理设置使用这个本地的标准的未加密的代理（因为本地通信没有墙）来上网。
+本服务器提供两种基于Socks5的代理：YSocks,暂只支持windows。Socks代理的原理是，在本地计算机开一个客户端，客户端和服务器加密通信防止被墙，因为标准的Socks代理是明文的会直接被墙，客户端会在本地开启一个标准的Socks代理（未加密），应用程序通过内部的代理设置使用这个本地的标准的未加密的代理（因为本地通信没有墙）来上网。
 
 ## 1.安装客户端
-### ShadowSocks
-可在[shadowsocks.org](https://shadowsocks.org/en/download/clients.html)找到下载客户端，本站提供部分客户端安装包：
-+ [Android](../file/Shadowdsocks-3.3.1.apk)
-+ [Windows](../file/Shadowsocks-3.4.3.zip)
-+ [Mac OS](../file/ShadowsocksX-NG-1.4-beta.zip)
 
-安装启动后填写配置：
-+ 服务器地址 sakura.njunova.com
-+ 服务器端口 53
-+ 加密方式 AES-256-CFB
-+ 密码请咨询管理员
-+ 本地端口可以自己定，譬如1080
-
-### YSocks
-下载[客户端](../file/socks-client.rar)，解压后有两个文件：主程序+配置文件。   
+下载 <a href="../file/ysocks.zip" download target="_blank">客户端</a>，解压后有两个文件：主程序+配置文件。   
 配置文件是Json格式，可以继续添加多个代理。直接双击主程序即可启动本地Socks代理。
 配置项有三个：
 * local_port 本地端口，可以自己指定
